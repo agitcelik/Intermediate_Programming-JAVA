@@ -1,0 +1,2 @@
+The Avarage of numbers: <in data.txt> is 14.0
+The Standard deviation of numbers <in data.txt> is 2.78
